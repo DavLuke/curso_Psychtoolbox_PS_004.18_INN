@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos al mini-curso de Psychtoolbox y GitHub!
 
 You can use the [editor on GitHub](https://github.com/DavLuke/curso_Psychtoolbox_PS_004.18_INN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
