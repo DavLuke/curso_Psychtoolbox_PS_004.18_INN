@@ -1,8 +1,8 @@
 ## Bienvenidos al mini-curso de Psychtoolbox y GitHub!
 
-You can use the [editor on GitHub](https://github.com/DavLuke/curso_Psychtoolbox_PS_004.18_INN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+¡Este curso está ahora en periodo de prueba! Forma parte de un proyecto de innovación educativa concedido por la [UAM](http://www.uam.es/UAM/Home.htm?language=es) a [David Luque] (https://davluque.wordpress.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A lo largo del mismo aprenderás a (1) programar un experimento muy sencillo usando [Psychtoolbox] (http://psychtoolbox.org/) y (2) colaborar con tus compañeros usando [GitHub] (https://github.com/) para programar un experimento un poco más complejo. 
 
 ### ¿Qué tienes que hacer?
 
