@@ -1,8 +1,8 @@
 ## Bienvenidos al mini-curso de Psychtoolbox y GitHub!
 
-¡Este curso está ahora en periodo de prueba! Forma parte de un proyecto de innovación educativa concedido por la [UAM](http://www.uam.es/UAM/Home.htm?language=es) a [David Luque] (https://davluque.wordpress.com).
+¡Este curso está ahora en periodo de prueba! Forma parte de un proyecto de innovación educativa concedido por la [UAM](http://www.uam.es/UAM/Home.htm?language=es) a [David Luque](https://davluque.wordpress.com).
 
-A lo largo del mismo aprenderás a (1) programar un experimento muy sencillo usando [Psychtoolbox] (http://psychtoolbox.org/) y (2) colaborar con tus compañeros usando [GitHub] (https://github.com/) para programar un experimento un poco más complejo. 
+A lo largo del mismo aprenderás a (1) programar un experimento muy sencillo usando [Psychtoolbox (PTB)](http://psychtoolbox.org) y (2) colaborar con tus compañeros usando [GitHub](https://github.com/) para programar un experimento un poco más complejo. 
 
 ### ¿Qué tienes que hacer?
 
