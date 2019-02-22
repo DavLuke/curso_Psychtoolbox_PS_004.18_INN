@@ -1,37 +1,9 @@
-## Bienvenidos al mini-curso de Psychtoolbox y GitHub!
+## ¡Bienvenidos al mini-curso de Psychtoolbox y GitHub!
 
 ¡Este curso está ahora en periodo de prueba! Forma parte de un proyecto de innovación educativa concedido por la [UAM](http://www.uam.es/UAM/Home.htm?language=es) a [David Luque](https://davluque.wordpress.com).
 
-A lo largo del mismo aprenderás a (1) programar un experimento muy sencillo usando [Psychtoolbox (PTB)](http://psychtoolbox.org) y (2) colaborar con tus compañeros usando [GitHub](https://github.com/) para programar un experimento un poco más complejo. 
+A lo largo del mismo aprenderás a (1) programar un experimento muy sencillo usando [Psychtoolbox (PTB)](http://psychtoolbox.org) (2) colaborar con tus compañeros usando [GitHub](https://github.com/) para programar un experimento un poco más complejo y (3) un poco sobre la tarea dot probe y el contextual cueing. 
 
-### ¿Qué tienes que hacer?
+<img src="http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/chicho.jpg" alt="drawing" width="200"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavLuke/curso_Psychtoolbox_PS_004.18_INN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
