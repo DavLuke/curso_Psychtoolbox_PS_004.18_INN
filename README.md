@@ -4,6 +4,8 @@
 
 A lo largo del mismo aprenderás a (1) programar un experimento muy sencillo usando [Psychtoolbox (PTB)](http://psychtoolbox.org) (2) colaborar con tus compañeros usando [GitHub](https://github.com/) para programar un experimento un poco más complejo y (3) un poco sobre la tarea dot probe y el contextual cueing. 
 
+Para empezar, comprueba que cumples con los [requisitos para participar](https://davluke.github.io/minicursoPTB/pages/Paso1.html).
+
 <img src="http://elblogdemanu.com/wordpress/wp-content/uploads/2007/02/chicho.jpg" alt="drawing" width="200"/>
 
 
