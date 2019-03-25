@@ -1,0 +1,23 @@
+%% PROBLEMAS RELACIONADOS CON (1) CREAR UN "LOOP" QUE SE REPITE (CADA ITERACIÓN DEL LOOP SERÁ UN ENSAYO) Y (2) USAR EL if PARA (3) ESTABLECER QUÉ PASA EN CADA ENSAYO MEDIANTE UNA VARIABLE:
+
+PROBLEMA #7. Añade una pantalla vacía (fondo gris) que seguiría a la presentación de los estímulos durante 0.5 segundos. La secuencia ahora debe ser: Cruz de fijación-->Estímulos-->Pantalla vacía. Esta secuencia la llamaremos "ensayo".
+
+PROBLEMA #8. Haz que se repitan 6 ensayos. No copies y peges el código de un ensayo 6 veces! 
+(TIP: Usa un loop n = numero de ensayos 
+>for i= 1:n 
+>% el ensayo pasa aqui 
+>end )
+
+PROBLEMA #9: Cambia el código de modo que en la mitad de los ensayos el cuadrado esté a la izquierda y el circulo a la derecha, y en la otra mitad al contrario.
+(TIP: Crea una variable [por ejemplo <tipo_trial>]. Esta variable debe contener tantos elementos (columnas) como número de ensayos.
+Por ahora tendrá solo una fila.
+
+> tipo_trial = zeros (1,n);%la creamos llena de zeros
+
+Ahora haz que la mitad de los valores de tipo_trial sean un 1 y la otra mitad un 2. Luego, cuando tengas que "dibujar" tus estímulos en el loop, solo tienes que indicar que
+
+> if tipo_trial (1,i) == 1
+% aquí pones el código para que la posición de los estímulos sea cuadrado a la izquierda/circulo a la derecha.
+> elseif tipo_trial (1,i) == 2
+% aquí pones el código para que la posición de los estímulos sea círculo a la izquierda/cuadrado a la derecha.
+>end
